@@ -1,0 +1,26 @@
+{
+  "name": "corsica-rss",
+  "version": "0.1.0",
+  "description": "A Corsica plugin to read RSS feeds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mythmon/corsica-rss.git"
+  },
+  "keywords": [
+    "corsica"
+  ],
+  "author": "Mike Cooper <mythmon@gmail.com>",
+  "license": "MPL2",
+  "bugs": {
+    "url": "https://github.com/mythmon/corsica-rss/issues"
+  },
+  "homepage": "https://github.com/mythmon/corsica-rss",
+  "dependencies": {
+    "feedparser": "^0.16.6",
+    "es6-promise": "^1.0.0"
+  }
+}
